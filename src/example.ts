@@ -7,7 +7,6 @@ import {
 	primary_key,
 	default_value,
 	references,
-	unique_index,
 	index,
 } from './dsl';
 import {
